@@ -1,0 +1,41 @@
+.box1{
+    height: 200px; width: 200px;
+    border: 2px solid red;
+    /* background-color: yellowgreen; */
+    margin: auto;
+    padding: 50px;
+    margin-bottom: 30px;
+}
+.text1{
+    margin-top: 80px;
+    margin-left: 30px;
+    color: brown;
+    font-size: 40px;
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    border: 3px dotted green;
+    margin: auto;
+    padding: 50px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.text2{margin-top: 80px;
+margin-left: 45px;
+color: blue;
+font-size: 50px;
+}
+.box3{
+    height: 200px;
+    width: 200px;
+    border: 2px dashed blue;
+    margin: auto;
+    padding: 50px;
+    border-radius: 5px;
+}
+.text3{margin-top: 80px;
+margin-left: 30px;
+color: blueviolet;
+font-size: 50px;
+}
